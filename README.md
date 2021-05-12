@@ -1,6 +1,4 @@
-### BubbleCreations using Sprite properties
-#### DESCRIPTION : Creating multiple bubble using bubble class and working with its properties
+### Basic Library Files - p5.boilerplate
+Basic Libraries for both P5 Editor and Physics Engine
 
-#### Use p5.play boilerplate : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
-
-#### Output Link : https://vishnupriya-whitehatjr.github.io/c1-BubbleCreations/
+## For direct P5 : https://editor.p5js.org/whitehatjr.priya/sketches/8NOsA6fAn
